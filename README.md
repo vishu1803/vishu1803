@@ -1,3 +1,12 @@
+# 👋 Hey, I'm Vishwanath Nishad
+
+🚀 Passionate **Full-Stack Developer** focused on building scalable, high-performance applications.  
+💻 I work with **Python, FastAPI, Node.js, Next.js, PostgreSQL, MongoDB, Supabase**, and modern DevOps.  
+🧠 Exploring **AI, automation, backend engineering, and problem-solving (DSA in Python)**.  
+🌱 Constantly learning, improving, and contributing to meaningful tech projects.  
+🤝 Open to collaboration, internships, freelance & exciting opportunities!
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishwanath-nishad-69b047233/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Vishu1803) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@vishwanathnish5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwanatnishad@gmail.com) 
