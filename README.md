@@ -9,8 +9,6 @@
 ## 🐍 GitHub Contribution Game
 
 ![GitHub Snake Game](https://raw.githubusercontent.com/vishu1803/vishu1803/output/github-contribution-grid-snake-dark.svg)
-
-
 ---
 
 ## 🌐 Socials:
