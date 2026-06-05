@@ -1,5 +1,4 @@
 # 👋 Hey, I'm Vishwanath Nishad
-
 🚀 Passionate **Full-Stack Developer** focused on building scalable, high-performance applications.  
 💻 I work with **Python, FastAPI, Node.js, Next.js, PostgreSQL, MongoDB, Supabase**, and modern DevOps.  
 🧠 Exploring **AI, automation, backend engineering, and problem-solving (DSA in Python)**.  
