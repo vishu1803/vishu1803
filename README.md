@@ -25,7 +25,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🧠 Coding Practice (DSA)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vishwanatnishad?theme=dark&font=Baloo&ext=contest)
-
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishu1803&theme=react-dark)
 ---
