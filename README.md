@@ -8,13 +8,13 @@
 ## Projects
 
 | Project | What it is | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [AI-blog-post-Summarizer](https://github.com/vishu1803/AI-blog-post-Summarizer) | Blog web app with AI summaries built in | Python |
 | [Ai-powered-code-review-assistant](https://github.com/vishu1803/Ai-powered-code-review-assistant) | AI assistant that reviews code | Python |
 | [Product-Data-Explorer](https://github.com/vishu1803/Product-Data-Explorer) | Browse and explore product data | TypeScript |
 | [Audience-query-system](https://github.com/vishu1803/Audience-query-system) | Audience query system | TypeScript |
 | [Collaborative-task-manager](https://github.com/vishu1803/Collaborative-task-manager) | Team task manager | HTML |
-| [india-miles](https://github.com/vishu1803/india-miles) | India Miles web project | JavaScript |
+| [india-miles](https://github.com/vishu1803/india-miles) | india-miles web project | JavaScript |
 
 ## Contribution city
 
