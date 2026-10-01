@@ -1,8 +1,13 @@
 <div align="center">
-  <img src="./hero.svg?v=1" alt="Vishwanath Nishad — Full-Stack Developer" width="100%"/>
-  <img src="./about-life.svg?v=1" alt="What I build and what I do off the clock" width="100%"/>
-  <img src="./stack.svg?v=1" alt="Tech stack orbiting a glowing core" width="100%"/>
-  <img src="./id-dashboard.svg?v=1" alt="Developer ID badge and GitHub dashboard" width="100%"/>
+
+<img src="./hero.svg?v=1" alt="Vishwanath Nishad — Full-Stack Developer" width="100%"/>
+
+<img src="./about-life.svg?v=1" alt="What I build and what I do off the clock" width="100%"/>
+
+<img src="./stack.svg?v=1" alt="Tech stack orbiting a glowing core" width="100%"/>
+
+<img src="./id-dashboard.svg?v=1" alt="Developer ID badge and GitHub dashboard" width="100%"/>
+
 </div>
 
 ## Projects
@@ -19,7 +24,11 @@
 ## Contribution city
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution city" width="100%"/>
-  <img src="https://raw.githubusercontent.com/vishu1803/vishu1803/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
-  <img src="./connect.svg?v=1" alt="Connect with me" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution city" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/vishu1803/vishu1803/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+<img src="./connect.svg?v=1" alt="Connect with me" width="100%"/>
+
 </div>
