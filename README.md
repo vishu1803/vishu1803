@@ -15,7 +15,7 @@
 <img src="assets/about.svg" width="100%" alt="Electronics background, self-taught full-stack developer, now learning AI/ML">
 <img src="assets/stack.svg" width="100%" alt="Current stack: TypeScript, JavaScript, Python, React, Next.js, FastAPI, Node.js, PostgreSQL, and Model Context Protocol">
 <a href="https://github.com/vishu1803">
-<img src="assets/activity.svg" width="100%" alt="GitHub contribution activity for vishu1803">
+<img src="https://raw.githubusercontent.com/vishu1803/vishu1803/main/assets/activity.svg?v=20261128" width="100%" alt="GitHub contribution activity for vishu1803">
 </a>
 
 <img src="assets/projects.svg" width="100%" alt="Projects">

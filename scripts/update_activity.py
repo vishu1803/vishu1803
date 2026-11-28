@@ -78,15 +78,13 @@ def color_for(count: int) -> str:
     return "#39d353"
 
 
-def render_svg(calendar: dict, start: date, end: date) -> str:
+def render_svg(calendar: dict) -> str:
     width, height = 900, 236
     grid_x, grid_y = 146, 92
     cell, step = 11, 13
     weeks = calendar["weeks"]
     parts = [
-        f'<svg xmlns="{SVG_NS}" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title description">',
-        '  <title id="title">GitHub contribution activity</title>',
-        f'  <desc id="description">{calendar["totalContributions"]} public contributions from {start.isoformat()} to {end.isoformat()}.</desc>',
+        f'<svg xmlns="{SVG_NS}" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
         '  <rect x="1" y="1" width="898" height="234" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>',
         '  <text x="28" y="37" fill="#f0f6fc" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="20" font-weight="700">GitHub activity</text>',
         f'  <text x="28" y="61" fill="#8b949e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13">{calendar["totalContributions"]} public contributions in the last year</text>',
@@ -107,13 +105,8 @@ def render_svg(calendar: dict, start: date, end: date) -> str:
 
             y = grid_y + day["weekday"] * step
             count = day["contributionCount"]
-            label = f'{day_date.strftime("%B")} {day_date.day}, {day_date.year}: {count} contributions'
-            parts.extend(
-                [
-                    f'  <rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{color_for(count)}">',
-                    f'    <title>{label}</title>',
-                    '  </rect>',
-                ]
+            parts.append(
+                f'  <rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{color_for(count)}"/>'
             )
 
     for weekday, label in ((1, "Mon"), (3, "Wed"), (5, "Fri")):
@@ -141,7 +134,7 @@ def main() -> None:
     start = end - timedelta(days=364)
     calendar = fetch_calendar(start, end)
     output = ROOT / "assets" / "activity.svg"
-    output.write_text(render_svg(calendar, start, end), encoding="utf-8")
+    output.write_text(render_svg(calendar), encoding="utf-8")
     print(f"Updated {output.relative_to(ROOT)} with {calendar['totalContributions']} contributions.")
 
 
