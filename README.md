@@ -1,6 +1,12 @@
 <img src="assets/room.svg" width="100%" alt="Vishwanath Nishad's pixel room">
 
-[Portfolio](https://my-portfolio-kappa-beige-71.vercel.app) · [LinkedIn](https://linkedin.com/in/vishwanath-nishad)
+<p align="center">
+  <a href="https://my-portfolio-kappa-beige-71.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/vishu1803">GitHub</a> ·
+  <a href="https://linkedin.com/in/vishwanath-nishad">LinkedIn</a>
+  <br>
+  Gorakhpur · Learning to improve the web developer community
+</p>
 
 <img src="assets/about.svg" width="100%" alt="Electronics background, self-taught full-stack developer, now learning AI/ML">
 <img src="assets/stack.svg" width="100%" alt="Python, TypeScript, JavaScript, FastAPI, Node.js, Express, NestJS, Next.js, React, PostgreSQL, MongoDB, Supabase, Redis">
