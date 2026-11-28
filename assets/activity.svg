@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90" role="img" aria-labelledby="title description">
+  <title id="title">GitHub activity</title>
+  <desc id="description">Recent public contributions on GitHub.</desc>
+  <rect x="1" y="1" width="898" height="88" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <text x="30" y="40" fill="#f0f6fc" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="700">GitHub activity</text>
+  <text x="30" y="65" fill="#8b949e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13">Recent public contributions</text>
+  <rect x="730" y="32" width="10" height="10" rx="2" fill="#0e4429"/>
+  <rect x="748" y="32" width="10" height="10" rx="2" fill="#006d32"/>
+  <rect x="766" y="32" width="10" height="10" rx="2" fill="#26a641"/>
+  <rect x="784" y="32" width="10" height="10" rx="2" fill="#39d353"/>
+</svg>

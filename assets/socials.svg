@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90" role="img" aria-labelledby="title description">
+  <title id="title">Find me online</title>
+  <desc id="description">Links to GitHub, portfolio, and LinkedIn.</desc>
+  <rect x="1" y="1" width="898" height="88" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <text x="30" y="40" fill="#f0f6fc" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" font-weight="700">Find me online</text>
+  <text x="30" y="65" fill="#8b949e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13">Connect, explore my work, or view my code</text>
+</svg>
