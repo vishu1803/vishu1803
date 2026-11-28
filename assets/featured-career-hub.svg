@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title description">
+  <title id="title">Featured project: Career Hub</title>
+  <desc id="description">Evidence-backed AI career intelligence that turns GitHub code and resumes into verified skills and role-fit insights, with MCP-powered AI integration.</desc>
+  <rect x="1" y="1" width="898" height="248" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="6" height="248" rx="3" fill="#d2a8ff"/>
+
+  <rect x="30" y="24" width="142" height="25" rx="12" fill="#2d1f45"/>
+  <text x="44" y="41" fill="#d2a8ff" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="700">FEATURED PROJECT</text>
+
+  <text x="30" y="91" fill="#f0f6fc" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="32" font-weight="700">Career Hub</text>
+  <text x="30" y="119" fill="#d2a8ff" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16">Evidence-backed AI career intelligence</text>
+  <text x="30" y="151" fill="#c9d1d9" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13">Turns GitHub code and resumes into verified skills,</text>
+  <text x="30" y="171" fill="#c9d1d9" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13">role-fit insights, and MCP-powered AI assistance.</text>
+
+  <rect x="30" y="198" width="112" height="28" rx="7" fill="#21262d" stroke="#30363d"/>
+  <text x="43" y="217" fill="#8b949e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11">Node.js 20+</text>
+  <rect x="152" y="198" width="132" height="28" rx="7" fill="#21262d" stroke="#30363d"/>
+  <text x="166" y="217" fill="#8b949e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11">PostgreSQL 16+</text>
+  <rect x="294" y="198" width="64" height="28" rx="7" fill="#21262d" stroke="#30363d"/>
+  <text x="312" y="217" fill="#8b949e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11">MCP</text>
+
+  <rect x="608" y="26" width="258" height="198" rx="12" fill="#1c2128" stroke="#30363d"/>
+  <text x="630" y="54" fill="#8b949e" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11" font-weight="700">FROM EVIDENCE TO INSIGHT</text>
+  <rect x="630" y="69" width="214" height="34" rx="7" fill="#21262d" stroke="#30363d"/>
+  <text x="647" y="91" fill="#c9d1d9" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12">CODE + RESUME</text>
+  <path d="M737 104v12m-4-4 4 4 4-4" fill="none" stroke="#8b949e" stroke-width="2"/>
+  <rect x="630" y="120" width="214" height="34" rx="7" fill="#12301f" stroke="#238636"/>
+  <text x="647" y="142" fill="#3fb950" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12">VERIFIED SKILLS</text>
+  <path d="M737 155v12m-4-4 4 4 4-4" fill="none" stroke="#8b949e" stroke-width="2"/>
+  <rect x="630" y="171" width="214" height="34" rx="7" fill="#2d1f45" stroke="#8957e5"/>
+  <text x="647" y="193" fill="#d2a8ff" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12">CAREER INTELLIGENCE</text>
+</svg>
