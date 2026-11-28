@@ -14,10 +14,8 @@
 
 <img src="assets/about.svg" width="100%" alt="Electronics background, self-taught full-stack developer, now learning AI/ML">
 <img src="assets/stack.svg" width="100%" alt="Current stack: TypeScript, JavaScript, Python, React, Next.js, FastAPI, Node.js, PostgreSQL, and Model Context Protocol">
-<img src="assets/activity.svg" width="100%" alt="GitHub activity: recent public contributions">
-
 <a href="https://github.com/vishu1803">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishu1803&bg_color=161b22&color=c9d1d9&line=58a6ff&point=3fb950&area=true&hide_border=true" width="100%" alt="GitHub activity graph for vishu1803">
+<img src="assets/activity.svg" width="100%" alt="GitHub contribution activity for vishu1803">
 </a>
 
 <img src="assets/projects.svg" width="100%" alt="Projects">
