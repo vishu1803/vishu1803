@@ -20,6 +20,17 @@ Evidence-backed AI career intelligence that turns GitHub repositories and resume
 
 <p align="center"><a href="https://github.com/vishu1803/Ai-job-mcp">Explore Career Hub →</a></p>
 
+### Work proof
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/vishu1803/Ai-job-mcp/commits/main"><strong>383</strong><br>repository commits</a></td>
+<td align="center"><a href="https://github.com/vishu1803/Ai-job-mcp#current-test-evidence"><strong>1,154</strong><br>passing unit tests</a></td>
+<td align="center"><a href="https://github.com/vishu1803/Ai-job-mcp#current-test-evidence"><strong>50+</strong><br>integration test suites</a></td>
+<td align="center"><a href="https://github.com/vishu1803/Ai-job-mcp"><strong>26 tools</strong><br>8 resources · 4 prompts</a></td>
+</tr>
+</table>
+
 <img src="assets/about.svg" width="100%" alt="Electronics background, self-taught full-stack developer, now learning AI/ML">
 <img src="assets/stack.svg" width="100%" alt="Current stack: TypeScript, JavaScript, Python, React, Next.js, FastAPI, Node.js, PostgreSQL, and Model Context Protocol">
 <a href="https://github.com/vishu1803">
