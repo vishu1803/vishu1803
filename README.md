@@ -9,7 +9,7 @@
 </p>
 
 <img src="assets/about.svg" width="100%" alt="Electronics background, self-taught full-stack developer, now learning AI/ML">
-<img src="assets/stack.svg" width="100%" alt="Python, TypeScript, JavaScript, FastAPI, Node.js, Express, NestJS, Next.js, React, PostgreSQL, MongoDB, Supabase, Redis">
+<img src="assets/stack.svg" width="100%" alt="Current stack: TypeScript, JavaScript, Python, React, Next.js, FastAPI, Node.js, PostgreSQL, and Model Context Protocol">
 <img src="assets/projects.svg" width="100%" alt="Projects">
 
 <p>
